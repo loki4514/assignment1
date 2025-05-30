@@ -172,9 +172,8 @@ Creates a secondary row:
 
 ---
 
-## Can Primary Turn Into Secondary?
+## Primary Turn Into Secondary.
 
-Yes.
 
 ### Example:
 
